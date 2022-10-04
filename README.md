@@ -25,4 +25,5 @@ For now, the most obvious and sensible thing to do is to switch to Firefox. Fire
 
 ### Sources
 [**Website** - Chrome Users Beware: Manifest V3 is Deceitful and Threatening](https://www.eff.org/deeplinks/2021/12/chrome-users-beware-manifest-v3-deceitful-and-threatening)
+
 [**YouTube Video** - Google Will Soon Kill Ad Blockers With Manifest V3 - What to do!](https://youtu.be/18VM1xZQdXc)
